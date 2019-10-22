@@ -1,3 +1,5 @@
 This is a test file. The following sentence will be changed:
 All the gold and silver in the world;
-could not sway his wrath
+could not sway his wrath;
+for he swore that no earthly riches;
+could sate his hunger.
