@@ -1,0 +1,2 @@
+This is a test file. The following sentance will be changed:
+All the gold and silver in the world.
