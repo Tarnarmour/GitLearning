@@ -1,5 +1,5 @@
 This is a test file. The following sentence will be changed:
 All the gold and silver and copper in the world;
 could not sway his wrath;
-for he swore that no earthly riches;
+for he swore that no earthly riches or honors;
 could sate his hunger.
